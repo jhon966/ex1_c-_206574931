@@ -21,9 +21,9 @@ int main() {
 	/* we can run the test from here! */
 
 	test_dijkstra();
-	//test_dfs();
-	//test_kruskal();
-	//test_bfs();
-	//test_prim();
+	test_dfs();
+	test_kruskal();
+	test_bfs();
+	test_prim();
 	
 }
